@@ -36,7 +36,6 @@ This login page is styled with **glassmorphism**, using blur effects, semi-trans
 ## 📸 Screenshot
 
 ![Login page preview](LoginPage_Preview.png)  
-_(You can replace this with an actual screenshot later if needed)_
 
 ## 📚 Learning Goals
 
