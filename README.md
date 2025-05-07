@@ -4,8 +4,7 @@ This is a sleek and modern login page featuring a glassmorphism design. Built us
 
 ## 🌐 Demo
 
-[View Live Demo](https://your-username.github.io/login-page/)  
-_(Replace this with your actual GitHub Pages link after deployment)_
+[View Live Demo] https://github.com/tarik-thomas/LoginPage
 
 ## 📄 Project Description
 
